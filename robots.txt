@@ -1,0 +1,5 @@
+# robots.txt for bdprompt.com
+User-agent: *
+Allow: /
+
+Sitemap: https://bdprompt.com/sitemap.xml
