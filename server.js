@@ -56,5 +56,5 @@ const server = http.createServer((request, response) => {
 })
 
 server.listen(port, '0.0.0.0', () => {
-  console.log(`BdPrompt preview running on port ${port}`)
+  console.log(`BdPrompts preview running on port ${port}`)
 })
