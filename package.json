@@ -1,0 +1,10 @@
+{
+  "name": "bdprompt",
+  "version": "1.0.0",
+  "private": true,
+  "description": "বাংলা AI প্রম্পট লাইব্রেরি",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
