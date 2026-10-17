@@ -1,0 +1,21 @@
+# BdPrompts
+
+> বাংলা AI prompt library for students, freelancers, creators, and businesses in Bangladesh.
+
+BdPrompts provides free, copy-ready Bengali AI prompts for ChatGPT, Claude, Gemini, and other AI tools.
+
+## Main pages
+- https://bdprompts.com/
+- https://bdprompts.com/youtube-script-prompts
+- https://bdprompts.com/image-generation-prompts
+- https://bdprompts.com/ssc-exam-prompts
+- https://bdprompts.com/freelancer-prompts
+- https://bdprompts.com/facebook-post-prompts
+- https://bdprompts.com/ad-copy-prompts
+
+## Policies
+- https://bdprompts.com/privacy
+- https://bdprompts.com/terms
+
+## Sitemap
+- https://bdprompts.com/sitemap.xml
